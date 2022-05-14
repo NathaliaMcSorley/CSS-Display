@@ -1,0 +1,10 @@
+p{
+    background-color: cyan;
+    font-size: 30px;
+    display: block;
+    /*display: inline;*/
+    /*display: inline-block;
+    height: 100px;
+    width: 200px;*/
+    /*display: none; -> ELEMENT IS NOT DISPLAYED*/
+}
